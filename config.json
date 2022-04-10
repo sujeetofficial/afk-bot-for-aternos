@@ -1,5 +1,9 @@
 {
-	"ip":"skysk.aternos.me:32515",
-	"port": "32515",
-	"name": "sky"
+	"ip":"skysk.aternos.me",
+	"port": 32515,
+	"name": "botsk",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
 }
